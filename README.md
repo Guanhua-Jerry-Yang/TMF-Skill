@@ -1,2 +1,2 @@
 # TMF-Skill
-tmf for clinical study
+TMF Skill for clinical study
